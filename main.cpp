@@ -16,4 +16,5 @@ int freshman(){
 int freshman2(){
 
     printf(" i am freshman2");
+    printf("저도 수정했어요");
 }
