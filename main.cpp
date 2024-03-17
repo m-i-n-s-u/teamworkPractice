@@ -2,8 +2,7 @@
 
 int main()
 {
-
-    printf("hi hello, i am master!!!");
+    printf(" hi hi hi~~");
 }
 
 int freshman(){
