@@ -8,5 +8,5 @@ int main()
 
 int freshman(){
 
-    printf("yes!! i am freshman~!!");
+    printf("yes!! i am freshman~!!!");
 }
