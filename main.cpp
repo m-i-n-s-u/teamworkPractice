@@ -12,3 +12,8 @@ int freshman(){
 
     printf("yes!! i am freshman~!!!, second practice");
 }
+
+int freshman2(){
+
+    printf(" i am freshman2");
+}
